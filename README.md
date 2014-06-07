@@ -22,9 +22,9 @@ $ cat external-scripts.json
 
 This script responds to `ぬるぽ` with `ｶﾞｯ`.
 
-### Optional setting
+### Optional config
 
-You can set a rich response style with below:
+You can use a rich response style with below:
 
 ```bash
 $ export HUBOT_NULLPO_RESPONSE_STYLE='rich'
