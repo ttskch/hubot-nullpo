@@ -1,0 +1,24 @@
+{
+  "name": "hubot-nullpo",
+  "version": "0.0.0",
+  "description": "",
+  "main": "nullpo.coffee",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git://github.com/qckanemoto/hubot-nullpo.git"
+  },
+  "keywords": [
+    "hubot",
+    "hubot-scripts",
+    "nullpo"
+  ],
+  "author": "qckanemoto",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/qckanemoto/hubot-nullpo/issues"
+  },
+  "homepage": "https://github.com/qckanemoto/hubot-nullpo"
+}
