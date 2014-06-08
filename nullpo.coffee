@@ -1,3 +1,12 @@
+# Description
+#   responds to ぬるぽ with ｶﾞｯ.
+#
+# Commands:
+#   ぬるぽ - Responds with ｶﾞｯ.
+#
+# Author:
+#   qckanemoto
+
 module.exports = (robot) ->
   robot.hear /ぬるぽ|ヌルポ|nullpo/i, (msg) ->
     if process.env.HUBOT_NULLPO_RESPONSE_STYLE is "rich"
