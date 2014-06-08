@@ -7,7 +7,7 @@
 Install via npm.
 
 ```bash
-$ cd path/to/your/hubot
+$ cd /path/to/hubot
 $ npm install --save hubot-nullpo
 ```
 
