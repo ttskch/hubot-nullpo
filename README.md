@@ -1,5 +1,7 @@
 # hubot-nullpo
 
+[![NPM version](https://badge.fury.io/js/hubot-nullpo.svg)](http://badge.fury.io/js/hubot-nullpo)
+
 ぬるぽ → ｶﾞｯ
 
 ## Installation
