@@ -1,6 +1,7 @@
 # hubot-nullpo
 
-[![NPM version](https://badge.fury.io/js/hubot-nullpo.svg)](http://badge.fury.io/js/hubot-nullpo)
+[![npm version](https://img.shields.io/npm/v/hubot-nullpo.svg)](https://www.npmjs.com/package/hubot-nullpo)
+[![npm downloads](https://img.shields.io/npm/dm/hubot-nullpo.svg)](https://www.npmjs.com/package/hubot-nullpo)
 
 ぬるぽ → ｶﾞｯ
 
