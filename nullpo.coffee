@@ -9,7 +9,7 @@
 
 module.exports = (robot) ->
   robot.hear /ぬるぽ|ヌルポ|nullpo/i, (msg) ->
-    if process.env.HUBOT_NULLPO_RESPONSE_STYLE is "rich"
+    if process.env.HUBOT_NULLPO_RICH_STYLE
       msg.send '''
 
 　 Λ＿Λ　　　　＼＼

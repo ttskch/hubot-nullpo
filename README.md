@@ -21,14 +21,23 @@ $ cat external-scripts.json
 ["hubot-nullpo"]
 ```
 
-## Usage
-
-This script responds to `ぬるぽ` with `ｶﾞｯ`.
-
-### Optional config
-
-You can use a rich response style with below:
+## Configuration
 
 ```bash
-$ export HUBOT_NULLPO_RESPONSE_STYLE='rich'
+# optional
+$ export HUBOT_NULLPO_RICH_STYLE="true"
+
+# if "true" then response will be like this:
+#
+# 　 Λ＿Λ　　　　＼＼
+#  （　・∀・）　　　|　|　ｶﾞｯ
+# と　　　　）　　　|　|
+# 　 Ｙ　/ノ　　　 人
+# 　　 /　）　 　 < 　>_Λ∩
+#  ＿/し'　／／. Ｖ｀Д´）/
+# （＿フ彡　　　　　　 /　←>>@mention
 ```
+
+## Usage
+
+Say `ぬるぽ`, and get `ｶﾞｯ`.
