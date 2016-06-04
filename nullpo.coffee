@@ -5,7 +5,7 @@
 #   ぬるぽ - Responds with ｶﾞｯ.
 #
 # Author:
-#   qckanemoto
+#   ttskch
 
 module.exports = (robot) ->
   robot.hear /ぬるぽ|ヌルポ|nullpo/i, (msg) ->

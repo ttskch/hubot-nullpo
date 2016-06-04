@@ -8,17 +8,17 @@
   },
   "repository": {
     "type": "git",
-    "url": "git://github.com/qckanemoto/hubot-nullpo.git"
+    "url": "git://github.com/ttskch/hubot-nullpo.git"
   },
   "keywords": [
     "hubot",
     "hubot-scripts",
     "nullpo"
   ],
-  "author": "qckanemoto",
+  "author": "ttskch",
   "license": "MIT",
   "bugs": {
-    "url": "https://github.com/qckanemoto/hubot-nullpo/issues"
+    "url": "https://github.com/ttskch/hubot-nullpo/issues"
   },
-  "homepage": "https://github.com/qckanemoto/hubot-nullpo"
+  "homepage": "https://github.com/ttskch/hubot-nullpo"
 }
