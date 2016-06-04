@@ -1,7 +1,7 @@
 {
   "name": "hubot-nullpo",
-  "version": "0.0.6",
-  "description": "",
+  "version": "0.0.7",
+  "description": "ぬるぽ → ｶﾞｯ",
   "main": "nullpo.coffee",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
